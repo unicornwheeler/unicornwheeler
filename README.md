@@ -1,7 +1,7 @@
 
 <p align="center">
    <picture><dark>
-     <img width="865" height="288" alt="2bff9844f3534d2e97857668b3852c01-removebg-preview" src="https://github.com/user-attachments/assets/30ab5a8a-b08d-40c0-8347-a4b1f168cf33" />
+    <img width="700" height="233" alt="2bff9844f3534d2e97857668b3852c01-removebg-preview (1)" src="https://github.com/user-attachments/assets/b2b95f97-bf5b-4bda-a4fd-1d11005e3b48" />
 
 
 
